@@ -4,8 +4,8 @@ Simple grocery app (iOS) built with React Native framework using Firebase
 install Xcode via the Mac App Store
 
 ## Install Node and Watchman
-`brew install node`
-`brew install watchman`
+```brew install node
+brew install watchman```
 
 ## Install React Native
 `npm install -g react-native-cli`
@@ -14,5 +14,5 @@ install Xcode via the Mac App Store
 `git clone https://github.com/jonschwadron/groceryApp-react-firebase.git`
 
 ## Launch the app
-`cd groceryApp-react-firebase`
-`react-native run-ios`
+```cd groceryApp-react-firebase`
+react-native run-ios```
